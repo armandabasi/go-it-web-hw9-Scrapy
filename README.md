@@ -1,1 +1,9 @@
-# go-it-web-hw9-Scrapy
+Для розробки строріть `config.ini` з наступним змістомЖ
+
+```
+[DEV_DB]
+USER=
+PASSWORD=
+DB_NAME=
+DOMAIN=
+```
